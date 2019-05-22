@@ -1,4 +1,4 @@
-"""Juego de 4 corredores"""
+"""Juego de 4 corredores que mueven con cualquier tecla o ratón "carreraPygame02"""
 import pygame, sys, random
 
 class Runner():
